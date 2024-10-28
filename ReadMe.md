@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Custom CSS Image Geneator<br>👯 I’m looking to collaborate on learning code!<br>🤝 I’m looking for help with building out my knowledge<br>🌱 I’m currently learning Python, HTML, CSS, and Javascript<br>💬 Ask me about my time in college<br>⚡ Fun fact: I’ve built a calculator in Minecraft!
+🔭 I’m currently working on my personal <a href="https://gnh.one" target="_blank">portfolio!</a><br>👯 I’m looking to collaborate on learning code!<br>🤝 I’m looking for help with building out my knowledge<br>🌱 I’m currently learning Python, HTML, CSS, and Javascript<br>💬 Ask me about my time in college<br>⚡ Fun fact: I’ve built a calculator in Minecraft!
 
 
 ## 🌐 Socials:
